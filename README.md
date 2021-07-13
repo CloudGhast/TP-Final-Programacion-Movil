@@ -1,0 +1,2 @@
+# TP-Final-Programacion-Movil
+TP final para la materia Programación Móvil de la carrera de Tecnicatura en Desarrollo de Videojuegos de la Universidad Abierta Interamericana.  Profesor: Christian Anibal Parkinson Alumno: Gastón Ariel Williner  El archivo .zip contiene 3 carpetas: APK, PROYECTO, RECURSOS y un Gameplay grabado de la pantalla del celular mostrando el juego de principio a fin.  Dispositivo: Galaxy NOTE 20 Ultra FPS: 60
